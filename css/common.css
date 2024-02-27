@@ -16,6 +16,8 @@ html{
 #header{
     background-color: var(--blue-gray);
     padding: 1.25rem 0;
+    position: sticky;
+    top: 0px;
 }
 
 #header .header-wrapper .logo{
